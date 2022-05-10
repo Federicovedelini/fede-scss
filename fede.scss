@@ -1,0 +1,40 @@
+
+//colores
+
+$color1: wheat;
+$color2: red;
+$color3:aqua;
+
+
+//medidas
+
+$ancho:100px;
+$alto: 200px;
+
+
+
+body{
+    background-color: $color1;
+}
+
+h1{
+    background-color: $color2;
+    color: $color3;
+    
+}
+
+h2{
+    color: $color3;
+
+}
+
+
+
+
+.division1{
+    color: $color2;
+    width: $alto +400;
+    height: $alto;
+    text-align: center;
+
+}
